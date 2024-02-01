@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\gp]
+@="Compress into .tar.gz"
+"Icon"="Tarred.ico"
+
+[HKEY_CLASSES_ROOT\Directory\shell\gp\command]
+@="cmd.exe /C \"Tarred.exe \"%1\"\""
