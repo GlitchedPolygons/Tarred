@@ -16,10 +16,11 @@ For multiple filed and folders the entry is inside the "Send to" context menu:
 
 * Download and extract the correct binaries based on your system
 * * Or build from source if you want
-* Make sure that the directory where you extracted _Tarred_ is in your `$PATH` so that you can call it from everywhere :D
+* **[OPTIONAL]** Make sure that the directory where you extracted _Tarred_ is in your `$PATH` so that you can call it from everywhere :D
 * On Windows:
-* Install the context menu entry by double-clicking on the `.reg` file included alongside the `Tarred.exe`
 * Install the multi-file context menu entry (inside "Send to") by double-clicking on `Install.bat`
+* **[OPTIONAL]** Install the context menu entry by double-clicking on the `.reg` file included alongside the `Tarred.exe`
+* * Not really necessary, as the entry inside the "Send to" context menu is always there after installation :)
 * Enjoy <3
 
 Alternatively, you can also copy and paste `Tarred.exe` into the directory of your precious files, and then select what you want to compress and **drag 'm' drop** them _into_ the `Tarred.exe`
