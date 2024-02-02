@@ -23,6 +23,6 @@ For multiple filed and folders the entry is inside the "Send to" context menu:
 * * Not really necessary, as the entry inside the "Send to" context menu is always there after installation :)
 * Enjoy <3
 
-Alternatively, you can also copy and paste `Tarred.exe` into the directory of your precious files, and then select what you want to compress and **drag 'm' drop** them _into_ the `Tarred.exe`
+Alternatively, you can also copy and paste `Tarred.exe` into the directory of your precious files, and then select what you want to compress and **drag 'n' drop** them _into_ the `Tarred.exe`
 
 ![Screenshot 3](https://static.files.glitchedpolygons.com/tarred-windows-screenshot-03.gif)
