@@ -26,3 +26,7 @@ For multiple filed and folders the entry is inside the "Send to" context menu:
 Alternatively, you can also copy and paste `Tarred.exe` into the directory of your precious files, and then select what you want to compress and **drag 'n' drop** them _into_ the `Tarred.exe`
 
 ![Screenshot 3](https://static.files.glitchedpolygons.com/tarred-windows-screenshot-03.gif)
+
+## Oh shit, how do I decompress these back to normal again?
+
+[`Untarred.exe`](https://github.com/GlitchedPolygons/Untarred)
