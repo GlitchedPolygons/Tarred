@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+>
+> # **NOTICE:**
+>
+> ## Development of this project has been migrated to: https://codeberg.org/GlitchedPolygons/Tarred
+>
+> ## All pull requests and issues on GitHub will be ignored from the 16th of August, 2025 onwards.
+
 # Tarred
 
 ## _"all tarred up..."_
